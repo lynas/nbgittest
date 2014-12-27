@@ -10,5 +10,8 @@ package javaapplication2;
  * @author LynAs
  */
 public class NewClass {
+    public void mm1(){
+        
+    }
     
 }

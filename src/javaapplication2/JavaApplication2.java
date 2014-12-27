@@ -38,5 +38,9 @@ public class JavaApplication2 {
 
 
     }
+    
+    public static void m1(){
+        
+    }
 
 }

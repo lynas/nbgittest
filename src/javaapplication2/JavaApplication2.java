@@ -18,12 +18,9 @@ public class JavaApplication2 {
         // TODO code application logic here
 
         //testing modification
-
         //another change    
         //test33
-
         //ficj ot i[ evemn more]
-
         //my changes
         //changes 2
         System.out.println("");
@@ -31,11 +28,9 @@ public class JavaApplication2 {
         //change 1
         // doing some stuff
         //ok
-System.out.println("SSS");
+        System.out.println("SSS");
         //new change 2
 
-
-
     }
-    
+
 }

@@ -10,7 +10,9 @@ package javaapplication2;
  * @author LynAs
  */
 public class NewClass {
-    public void mm1(){
+    public void mm1(){//made some changes
+    //also changes
+    
         
     }
     
